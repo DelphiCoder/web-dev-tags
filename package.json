@@ -1,0 +1,12 @@
+{
+  "name": "web-dev-tags",
+  "version": "1.0.0",
+  "description": "A compiled list of tags used to refer to web technolgies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["web dev", "web development", "tags", "javascript", "html", "css"],
+  "author": "Douglas P. Counts",
+  "license": "ISC"
+}
